@@ -1,0 +1,5 @@
+comprimi todas las fotos 
+sume keywords a cada pagina 
+agregue titulo a cada pagina 
+genere una carpeta de secciones de html,generando el index como pagina principal
+incorpore el icono de whatsApp en cada pagina 

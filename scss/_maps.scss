@@ -1,0 +1,8 @@
+$marcas:(honda:red,
+chevrolet:blue,
+ford:gray);
+
+@each $marca,$color in $marcas {
+    .#{$marca}{color:$color;}
+    
+}
